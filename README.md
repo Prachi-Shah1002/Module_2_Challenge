@@ -42,17 +42,16 @@
 
 ![hard_solution](Images/hard_solution.png)
 
+# VBA Script Result
 
-# Screen_Shot of the Result.
+### Screen Shot of Year 2018 Result
 
-### Result of Year 2018
+![Screenshot_of_2018](Results_Screenshot/2018_Result.png)
 
-![Result of Year 2018](Multiple Year Stocks/Year 2018 Result.png)
+### Screen Shot of Year 2019 Result
 
-### Result of Year 2019
+![Screenshot_of_2019](Results_Screenshot/2019_Result.png)
 
-![Result of Year 2019](Multiple Year Stocks/Year 2019 Result.png)
+### Screen Shot of Year 2020 Result
 
-### Result of Year 2020
-
-![Result of Year 2020](Multiple Year Stocks/Year 2020 Result.png)
+![Screenshot_of_2020](Results_Screenshot/2020_Result.png)
