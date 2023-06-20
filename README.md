@@ -41,3 +41,18 @@
 * Solution will look as follows.
 
 ![hard_solution](Images/hard_solution.png)
+
+
+# Screen_Shot of the Result.
+
+### Result of Year 2018
+
+![Result of Year 2018](Multiple Year Stocks/Year 2018 Result.png)
+
+### Result of Year 2019
+
+![Result of Year 2019](Multiple Year Stocks/Year 2019 Result.png)
+
+### Result of Year 2020
+
+![Result of Year 2020](Multiple Year Stocks/Year 2020 Result.png)
